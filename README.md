@@ -8,8 +8,8 @@ If it is installed else where, you will need request me to make one for you with
 ## Download Now!
 ### [Lucky VAC Error Fixer](https://github.com/LuckyTarget/VACErrorFixer/blob/main/Lucky%20Vac%20Fixer.exe)
 ## Images
-![Part 1](https://imgur.com/LdR5UOW.png)
-![Part 2](https://imgur.com/FhLaeqX.png)
+![Part 1](https://imgur.com/G2kfgqr.png)
+![Part 2](https://imgur.com/n1kuN6e.png)
 
 ## 📝 Review
 👑[LuckyTarget](https://steamcommunity.com/id/Luc) Do not forget to leave a command on Developer's Profile! Thanks alot!
