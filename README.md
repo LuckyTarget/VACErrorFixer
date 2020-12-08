@@ -1,3 +1,4 @@
+## Requirements
 [STEP 1] Download file!
 
 [STEP 2] Make sure you have Steam opened!
@@ -12,3 +13,7 @@
 [STEP 4] Type any key from your keyboard and wait until this message pops up!
 
 ![logo](https://imgur.com/FhLaeqX.png)
+
+[STEP 5] Follow the steps and have fun!
+
+## 📝 Credits
