@@ -1,4 +1,4 @@
-## Requirements
+## 🚀 Getting Started
 [STEP 1] Download file!
 
 [STEP 2] Make sure you have Steam opened!
