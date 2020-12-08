@@ -17,5 +17,4 @@
 [STEP 5] Follow the steps and have fun!
 
 ## 📝 Review
-Do not forget to leave a command on Developer's Profile! Thanks alot!
-👑[LuckyTarget](https://steamcommunity.com/id/Luc)
+👑[LuckyTarget](https://steamcommunity.com/id/Luc) Do not forget to leave a command on Developer's Profile! Thanks alot!
