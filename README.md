@@ -12,4 +12,4 @@ If it is installed else where, you will need request me to make one for you with
 ![Part 2](https://imgur.com/n1kuN6e.png)
 
 ## 📝 Review
-👑[LuckyTarget](https://steamcommunity.com/id/Luc) Do not forget to leave a command on Developer's Profile! Thanks alot!
+👑[LuckyTarget](https://steamcommunity.com/id/LuckyTarget) Do not forget to leave a command on Developer's Profile! Thanks alot!
